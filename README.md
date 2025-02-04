@@ -16,8 +16,8 @@ The other notebook generates the puzzle.
 
 There are two notebooks in the `jupyter-notebooks` directory:
 
-- [`crossword-setup.ipynb`](jupyter-notebooks/crossword-setupipynb)
-- [`crossword-create-puzzle.ipynb`](jupyter-notebooks/crossword-create-puzzleipynb).
+- [`crossword-setup.ipynb`](jupyter-notebooks/crossword-setup.ipynb)
+- [`crossword-create-puzzle.ipynb`](jupyter-notebooks/crossword-create-puzzle.ipynb).
 
 ### crossword-setup.ipynb
 
