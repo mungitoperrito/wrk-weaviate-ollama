@@ -47,8 +47,7 @@ need to change the input files.
 
 ## Credits
 
-The code that uses the list to generate a puzzle is a lightly modified version
-of the [`crossword_helmig`](https://github.com/jeremy886/crossword_helmig)
-project.
+The code that generates a puzzle is a lightly modified version of the
+[`crossword_helmig`](https://github.com/jeremy886/crossword_helmig) project.
 
 The sample data is from [Project Gutenberg](https://www.gutenberg.org/).
